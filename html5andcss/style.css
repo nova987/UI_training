@@ -1,0 +1,20 @@
+/* Tag based stylng */
+
+body{
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*class based style */
+.body-class{
+    background-color: darkblue;
+}
+
+/* id based ...*/
+#form-body{
+    background-color: chartreuse;
+
+}
+/*top right bottom left */
+.box{
+    margin: 10px 10px 10px 10px ;
+}
